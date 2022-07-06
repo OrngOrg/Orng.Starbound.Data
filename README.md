@@ -1,6 +1,6 @@
-![Nuget](https://img.shields.io/nuget/v/https://www.nuget.org/packages/Orng.Starbound.Data?label=Nuget&style=plastic)
+![Nuget](https://img.shields.io/nuget/v/Orng.Starbound.Data)
 
-Nuget is here: https://www.nuget.org/packages/Orng.Starbound.Data/0.1.0
+Nuget is here: https://www.nuget.org/packages/Orng.Starbound.Data
 
 # Orng.Starbound.Data
 Data types used commonly in Starbound.
