@@ -1,0 +1,30 @@
+﻿namespace Star;
+public enum ItemType
+{
+    Generic = 0,
+    LiquidItem = 1,
+    MaterialItem = 2,
+    ObjectItem = 3,
+    CurrencyItem = 4,
+    MiningTool = 5,
+    Flashlight = 6,
+    WireTool = 7,
+    BeamMiningTool = 8,
+    HarvestingTool = 9,
+    TillingTool = 10,
+    PaintingBeamTool = 11,
+    HeadArmor = 12,
+    ChestArmor = 13,
+    LegsArmor = 14,
+    BackArmor = 15,
+    Consumable = 16,
+    Blueprint = 17,
+    Codex = 18,
+    InspectionTool = 19,
+    InstrumentItem = 20,
+    GrapplingHook = 21,
+    ThrownItem = 22,
+    UnlockItem = 23,
+    ActiveItem = 24,
+    AugmentItem = 25
+}

@@ -15,6 +15,8 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <DebugType>embedded</DebugType>
     <TargetFrameworks>net6.0;net7.0</TargetFrameworks>
+    <RootNamespace>Star</RootNamespace>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
 
   <ItemGroup>
